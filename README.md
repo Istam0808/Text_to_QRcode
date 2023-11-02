@@ -6,3 +6,6 @@ This bot was created to create QR Codes from your texts
 
 * [OFFICIAL_BOT](https://t.me/Create_QR_from_text_bot)
 * [my_Instagram](https://www.instagram.com/istam_ake/)
+
+    logo
+![logo](text_to_qr.jpg)
