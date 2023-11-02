@@ -1,7 +1,6 @@
 This bot was created to create QR Codes from your texts
 
 # You need to install 2 libraries 
-##
     pip install pyTelegramBotAPI
     pip install qrcode
 
