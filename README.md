@@ -1,4 +1,4 @@
-    logo
+><u>__LOGO__</u>
 ![logo](text_to_qr.jpg)
 
 This bot was created to create QR Codes from your texts
