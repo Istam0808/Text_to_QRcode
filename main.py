@@ -2,9 +2,7 @@ import telebot
 import os
 import qrcode
 
-
 bot = telebot.TeleBot(os.environ.get("TOKEN", "Your_TOKEN"), parse_mode=None)
-
 
 START_TEXT = """
 Hi, I can generate QR code for your text! Just send "/QR {text to QRize}" and wait me for sending generated QR code. 
